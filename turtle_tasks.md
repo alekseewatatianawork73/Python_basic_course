@@ -3,7 +3,8 @@
 -----------------------------------------------------------------------------------------------------
 
 Презентация по теме: https://docs.google.com/presentation/d/1fm9x2xLp3ftxn_OUG7d1sMZ0V9KTcsidvzxgPJGInI4/edit?usp=sharing
-Код с комментариями: 
+
+Код с комментариями: https://github.com/alekseewatatianawork73/Python_basic_course/blob/main/turtle_static.py
 
 -----------------------------------------------------------------------------------------------------
 
